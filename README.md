@@ -20,7 +20,7 @@ This provides quick, contextual information to assist with reverse engineering.
 
 2. Edit the IDA Pro "plugins.cfg" file (typically located at ..\plugins\plugins.cfg) to configure the plug-in with a hotkey.   
    For example, add the following lines:   
-   `IDA_WhatAPIs_PlugIn.plw IDA_WhatAPIs_PlugIn.plw Ctrl-8 0`
+   `WhatAPIs IDA_WhatAPIs_PlugIn.dll Ctrl-8 0`
 
 Refer to the IDA Pro documentation for additional details on installing and managing plug-ins.
 
