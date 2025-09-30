@@ -16,6 +16,7 @@
 #pragma warning(push)
 #pragma warning(disable:4244) // conversion from 'ssize_t' to 'int', possible loss of data
 #pragma warning(disable:4267) // conversion from 'size_t' to 'uint32', possible loss of data
+#pragma warning(disable:4018) // warning C4018: '<': signed/unsigned mismatch
 #include <ida.hpp>
 #include <auto.hpp>
 #include <loader.hpp>
@@ -24,4 +25,4 @@
 
 #include <Utility.h>
 
-#define MY_VERSION MAKE_SEMANTIC_VERSION(VERSION_RELEASE, 5, 0, 0)
+#define MY_VERSION MAKE_SEMANTIC_VERSION(VERSION_RELEASE, 5, 0, 1)

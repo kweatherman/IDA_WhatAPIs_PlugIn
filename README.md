@@ -1,7 +1,7 @@
 ## IDA WhatAPIs Plugin
 
 A plug-in for IDA Pro to display contextual function API usage. 
-By Kevin Weatherman, Updated 2025 for IDA 9, [Github](https://github.com/kweatherman/IDA_Support)
+By Kevin Weatherman, Updated for IDA 9.2, [Github](https://github.com/kweatherman/IDA_Support)
 
 ------
 
